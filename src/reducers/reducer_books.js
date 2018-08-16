@@ -4,5 +4,5 @@ export default function() {
         { title: 'The Witcher' },
         { title: 'The Bible' },
         { title: 'Monty Python' }
-    ]
+    ];
 }
